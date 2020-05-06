@@ -1,6 +1,5 @@
-package com.example.jwtwithcookie.service;
+package com.example.jwtwithcookie.service.User;
 
-import com.example.jwtwithcookie.domain.User;
 import com.example.jwtwithcookie.security.JwtSecurity;
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.JwtException;

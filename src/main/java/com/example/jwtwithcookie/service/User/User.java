@@ -1,4 +1,4 @@
-package com.example.jwtwithcookie.domain;
+package com.example.jwtwithcookie.service.User;
 
 import lombok.Builder;
 import lombok.Getter;
